@@ -1,3 +1,3 @@
 #Learning React
 
-This repo is basic react js examples.
+This repo includes basic react.js examples.
